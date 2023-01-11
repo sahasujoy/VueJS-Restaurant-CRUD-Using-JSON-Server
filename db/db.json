@@ -1,0 +1,72 @@
+{
+  "users": [
+    {
+      "name": "Sujoy Saha",
+      "email": "sahasujoy.cse@gmail.com",
+      "password": "123456789",
+      "id": 1
+    },
+    {
+      "email": "sanvi@example.com",
+      "name": "Sanvi Saha",
+      "password": "123456789",
+      "id": 2
+    },
+    {
+      "email": "sudip@gmail.com",
+      "name": "Sudip Saha",
+      "password": "123456789",
+      "id": 3
+    },
+    {
+      "email": "rudra@example.com",
+      "name": "Rudra Saha",
+      "password": "123456789",
+      "id": 4
+    },
+    {
+      "email": "black@dev.com",
+      "name": "Black Dev",
+      "password": "blackdev",
+      "id": 5
+    },
+    {
+      "email": "avra@example.com",
+      "name": "Avra Saha",
+      "password": "password",
+      "id": 6
+    },
+    {
+      "name": "Sujoy Saha",
+      "email": "sahasujoy.cse@gmail.com",
+      "password": "123456789",
+      "id": 7
+    },
+    {
+      "name": "Sujoy Saha",
+      "email": "sahasujoy.cse@gmail.com",
+      "password": "123456789",
+      "id": 8
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "KFC",
+      "address": "GEC Circle, CTG",
+      "contact": 1111,
+      "id": 1
+    },
+    {
+      "name": "Pizza Hut",
+      "address": "GEC Circle, CTG",
+      "contact": 2222,
+      "id": 2
+    },
+    {
+      "name": "Dominos",
+      "address": "New Eskaton Road, Dhaka",
+      "contact": "1234",
+      "id": 4
+    }
+  ]
+}
